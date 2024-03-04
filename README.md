@@ -1,5 +1,5 @@
 # Income Classification Project
-This project is part of a machine learning course focused on using logistic regression. It aims to develop a predictive model using a [Census Income](https://archive.ics.uci.edu/dataset/20/census+income) dataset from a 1994 census. The model predicts likelihood of a individuals earning over $50k annually. Our approach involves preprocessing data, training the model with the datasets, and evaluating its performance using distinct metrics.
+This project is focused on using logistic regression, applying learnings from a machine learning course. It aims to develop a predictive model using a [Census Income](https://archive.ics.uci.edu/dataset/20/census+income) dataset from a 1994 census. The model predicts likelihood of a individuals earning over $50k annually. Our approach involves preprocessing data, training the model with the datasets, and evaluating its performance using distinct metrics.
 The process involves training the model with a specific dataset and evaluating its performance on a separate test set.
 
 ## Features
